@@ -552,7 +552,7 @@ public class Leercsv  {
             }
         } catch (Exception e) {
             
-            
+            JOptionPane.showMessageDialog(null, "No se ha podido guardar el archivo");
             
             
         }  
