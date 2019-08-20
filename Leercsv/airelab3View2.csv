@@ -1,0 +1,29 @@
+0000000004;scans;0000000078;DataLength
+"header";0000000023;"lines"
+"Date";21/02/2019;"Time";17:17:26
+"ID";"HAL IV RC HALO 201 #11202";"Version";3
+"Scans";4
+"Scan ID";"Mode";"Input";"Scanned";"Start";"Stop";"Increment";"Dwell";"Settle";"RS";"RelSEM"
+"Scan 1";"RGA";"SEM";"mass";4.00;4.00;0.01;2000.000;500.000;0.140000;1.000000;
+"Scan 2";"RGA";"Faraday";"mass";44.00;44.00;0.01;500.000;100.000;1.400000;1.000000;
+"Scan 3";"RGA";"Faraday";"mass";40.00;40.00;0.01;500.000;100.000;1.200000;1.000000;
+"Scan 4";"RGA";"SEM";"mass";36.00;36.00;0.01;1000.000;5000.000;0.004000;1.000000;
+"Environment";
+"Global";"RGA"
+"F1";1;"( 1 = on, 0 = off )"
+"F2";0;"( 1 = on, 0 = off )"
+"cage";5.0;"V"
+"delta-m";0;"%"
+"electron-energy";100.0;"V"
+"emission";1500;"uA"
+"focus";-90;"V"
+"mass";5.50;"amu"
+"mode-change-delay";1000;"ms"
+"multiplier";800;"V"
+"resolution";0;"%"
+"Data";4
+"Time";"ms";"Helium";"Carbon dioxide";"Argon-40";"Argon-36";
+00:00:00;        74;  4.74993e-08;  2.63716e-08;  2.23519e-07;  2.04425e-07;
+00:00:30;     30171;  3.29606e-08;  1.78855e-08;  1.29182e-07;  1.41550e-07;
+00:01:16;     76766;  2.36519e-08;  1.59347e-08;  9.68708e-08;  1.17401e-07;
+00:02:03;    123359;  1.79668e-08;  1.47596e-08;  7.74450e-08;  1.02108e-07;
